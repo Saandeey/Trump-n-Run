@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-sceneSetups: []
-=======
-sceneSetups:
-- path: Assets/trump'n#run2.unity
-  isLoaded: 1
-  isActive: 1
->>>>>>> 8d1724647811b4455d10f94239a7785651cfd0b6
